@@ -2,6 +2,7 @@
 
 <img src= "Imagens\logo.jpg">
 
+## Bootcamp com ênfase em Análise de QA, 3 meses de atividades para o aprendizado téorico e prático sobre testes, utilizando diferentes ferramentas e métodos tanto para a realização de testes quanto para a criação de relatórios de bugs e possíveis melhorias sobre diferetnes aplicações front e back end.
 ### Sprint 1
 #### Noções Básicas de Teste
 - Introdução à análise de QA
