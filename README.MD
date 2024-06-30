@@ -11,14 +11,14 @@
 - Relatório de Bugs
 - Casos de Teste
 - Atividades Práticas
-- Projeto
+- Projeto - https://docs.google.com/spreadsheets/d/1jXfkuGs1GCq89TDWRqFE3J1iX7eRzApR/edit?usp=sharing&ouid=105136808784241264437&rtpof=true&sd=true
 ### Sprint 2
 #### Design de Teste
 - Introdução
 - Análise de Requisitos
 - Design de Teste
 - Documentação de Teste
-- Projeto
+- Projeto - https://docs.google.com/document/d/17F8rxiUnR9selno_554iaJKaUceYojdl/edit?usp=sharing&ouid=105136808784241264437&rtpof=true&sd=true
 ### Srpint 3
 #### Teste de Aplicativos Web
 - Introdução ao Teste de Aplicativos Web
@@ -27,14 +27,14 @@
 - Teste entre Plataformas e Navegadores
 - Teste de Design Web Responsivo
 - Design de Teste para Testes de Aplicativos Web
-- Projeto
+- Projeto = https://docs.google.com/document/d/15HaFeJDl99iwswPHbAayUw9k95PwC_Yb/edit?usp=sharing&ouid=105136808784241264437&rtpof=true&sd=true
 ### Sprint 4
 #### Teste de API
 - Introdução
 - Introdução à API
 - Teste de API com Postman
 - Design de Testes para Teste de API
-- Projeto
+- Projeto - https://docs.google.com/spreadsheets/d/1UOM5rYoOW0d-9Ig9Oa03NCIUuPZ3OMVs/edit?usp=sharing&ouid=105136808784241264437&rtpof=true&sd=true
 ### Sprint 5
 #### Noções Básicas de Banco de Dados
 - Introdução
@@ -42,3 +42,4 @@
 - Noções Básicas de SQL
 ### Sprint 6
 #### Projeto Final
+- Projeto - https://docs.google.com/spreadsheets/d/1R2S5MQexvXmUhPQf9JOc1u8Go1FkECb0/edit?usp=sharing&ouid=105136808784241264437&rtpof=true&sd=true
